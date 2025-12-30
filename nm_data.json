@@ -26,7 +26,7 @@
     },
     "chance": "9%",
     "respawn": 2400
-  },{
+  },
   "Swamfisk": {
     "nm_id": [17191189],
     "coords": "",
@@ -43,6 +43,7 @@
     "respawn": 3600
   }
 }
+
 
 
 
