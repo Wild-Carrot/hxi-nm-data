@@ -17,11 +17,12 @@
     "respawn": 3600,
     "location": "-6, -356"
   },
-  "JAGGEDY EARED JACK": {
+  "Jaggedy-Eared Jack": {
     "ph": ["17187110"],
     "chance": "9%",
     "respawn": 2400,
     "location": "-19, -220"
 }
 }
+
 
