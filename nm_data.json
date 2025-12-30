@@ -14,7 +14,6 @@
     "chance": "5%",
     "respawn": 5400
   },
-  {
   "Jaggedy-Eared Jack": {
     "nm_id": [17187111],
     "coords": "1 2",
@@ -29,7 +28,3 @@
     "respawn": 2400
   }
 }
-
-
-
-
