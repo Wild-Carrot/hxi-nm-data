@@ -1,0 +1,20 @@
+{
+  "Cargo Crab Colin": {
+    "ph": ["17486002", "17486095"],
+    "chance": "5%",
+    "respawn": 5400,
+    "location": "-0.5, -33"
+  },
+  "Swamfisk Variant 1": {
+    "ph": ["17191187", "17191188"],
+    "chance": "7%",
+    "respawn": 3600,
+    "location": "-16, -316"
+  },
+  "Swamfisk Variant 2": {
+    "ph": ["17191287", "17191288", "17191289", "17191290"],
+    "chance": "7%",
+    "respawn": 3600,
+    "location": "-6, -356"
+  }
+}
