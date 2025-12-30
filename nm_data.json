@@ -22,7 +22,14 @@
     "chance": "9%",
     "respawn": 2400,
     "location": "-19, -220"
+  },
+  "Buburimboo": {
+    "ph": ["17261002"],
+    "chance": "10%",
+    "respawn": 3600,
+    "location": "19.499, 154.289"
+  }
 }
-}
+
 
 
