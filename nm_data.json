@@ -27,8 +27,8 @@
     "chance": "9%",
     "respawn": 2400
   },
-  {
-  "Swamfisk Variant 1": {
+{
+  "Swamfisk": {
     "nm_id": [17191189],
     "asb_ph": [
       {"id": 17191187, "coords": "379.120 -27.898 -46.436"},
@@ -43,7 +43,7 @@
     "respawn": 3600,
     "coords": ""
   },
-  "Swamfisk Variant 2": {
+  "Swamfisk 2": {
     "nm_id": [17191291],
     "asb_ph": [
       {"id": 17191287, "coords": "443.334 -17.000 -303.275"},
@@ -63,6 +63,7 @@
     "coords": ""
   }
 }
+
 
 
 
