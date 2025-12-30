@@ -1,39 +1,16 @@
 {
   "Cargo Crab Colin": {
-    "ph": ["17486002", "17486004", "x95?"],
+    "nm_id": [17486002],
+    "asb_ph": [
+      17486002,
+      17486095
+    ],
+    "lsb_offset": [
+      "+1",
+      "-1"
+    ],
     "chance": "5%",
     "respawn": 5400,
-    "location": "-0.5, -33"
-  },
-  "Swamfisk Variant 1": {
-    "ph": ["17191187", "17191188"],
-    "chance": "7%",
-    "respawn": 3600,
-    "location": "-16, -316"
-  },
-  "Swamfisk Variant 2": {
-    "ph": ["17191287", "17191288", "17191289", "17191290"],
-    "chance": "7%",
-    "respawn": 3600,
-    "location": "-6, -356"
-  },
-  "Jaggedy-Eared Jack": {
-    "ph": ["17187110"],
-    "chance": "9%",
-    "respawn": 2400,
-    "location": "-262.780, -253.873"
-  },
-  "Buburimboo": {
-    "ph": ["17261002"],
-    "chance": "10%",
-    "respawn": 3600,
-    "location": "436, 106"
+    "coords": "-0.5, -33"
   }
 }
-
-
-
-
-
-
-
