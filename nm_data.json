@@ -16,5 +16,12 @@
     "chance": "7%",
     "respawn": 3600,
     "location": "-6, -356"
-  }
+  },
+  "JAGGEDY EARED JACK": {
+    "ph": ["17187110"],
+    "chance": "9%",
+    "respawn": 2400,
+    "location": "-19, -220"
 }
+}
+
