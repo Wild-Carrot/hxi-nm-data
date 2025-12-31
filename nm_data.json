@@ -12,7 +12,8 @@
       "17486004": "-95.359 1.000 -34.375"
     },
     "chance": "5%",
-    "respawn": 5400
+    "respawn": 5400,
+    "ph_respawn": "16 minutes"
   },
   "Jaggedy-Eared Jack": {
     "nm_id": [17187111],
@@ -25,7 +26,8 @@
       "17187110": "-262.780 -22.384 -253.873"
     },
     "chance": "9%",
-    "respawn": 2400
+    "respawn": 2400,
+    "ph_respawn": "5 minutes 30 seconds"
   },
   "Swamfisk": {
     "nm_id": [17191189, 17191291],
@@ -61,6 +63,7 @@
       }
     ],
     "chance": "7%",
-    "respawn": 3600
+    "respawn": 3600,
+    "ph_respawn": "5 minutes 30 seconds"
   }
 }
