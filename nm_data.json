@@ -19,5 +19,13 @@
     },
     "chance": "9%",
     "respawn": 2400
+  },
+  "Ashmaker Gotblut": {
+    "nm_id": [17358932],
+    "coords": "",
+    "ph_offset": [3, 6, 7, 12, 19],
+    "ph_coords": {},
+    "chance": "5%",
+    "respawn": 3600
   }
 }
