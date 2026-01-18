@@ -27,5 +27,14 @@
     "ph_coords": {},
     "chance": "5%",
     "respawn": 3600
-  }
+  },
+  "Orcish Barricader": {
+    "nm_id": [],
+    "coords": "",
+    "ph_offset": [],
+    "ph_coords": {},
+    "chance": "",
+    "respawn": [4200, 5700]
 }
+}
+
