@@ -10,6 +10,7 @@
     "chance": "5%",
     "respawn": 5400
   },
+
   "Jaggedy-Eared Jack": {
     "nm_id": [17187111],
     "coords": "",
@@ -20,21 +21,22 @@
     "chance": "9%",
     "respawn": 2400
   },
+
   "Ashmaker Gotblut": {
     "nm_id": [17358932],
-    "coords": "",
     "ph_offset": [-3, -6, -7, -12, -19],
-    "ph_coords": {},
     "chance": "5%",
     "respawn": 3600
   },
+
   "Orcish Barricader": {
-    "nm_id": [],
-    "coords": "",
-    "ph_offset": [],
-    "ph_coords": {},
     "chance": "",
     "respawn": [4200, 5700]
-}
-}
+  },
 
+  "Stray Mary": {
+    "ph_ids": [17219791, 17219928],
+    "chance": "5%",
+    "respawn": 300
+  }
+}
