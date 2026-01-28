@@ -38,5 +38,19 @@
     "ph_ids": [17219791, 17219928],
     "chance": "5%",
     "respawn": 300
+  },
+
+  "Lumbering Lambert": {
+    "nm_id": [17195317],
+    "ph_ids": [17195143, 17195316],
+    "chance": "10%",
+    "respawn": 1200
+  },
+
+  "Bloodtear Baldurf": {
+    "nm_id": [17195318],
+    "ph_ids": [17195143, 17195316],
+    "chance": "10%",
+    "respawn": 1200
   }
 }
