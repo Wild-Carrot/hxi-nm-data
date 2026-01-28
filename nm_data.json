@@ -10,7 +10,6 @@
     "chance": "5%",
     "respawn": 5400
   },
-
   "Jaggedy-Eared Jack": {
     "nm_id": [17187111],
     "coords": "",
@@ -21,36 +20,85 @@
     "chance": "9%",
     "respawn": 2400
   },
-
   "Ashmaker Gotblut": {
     "nm_id": [17358932],
+    "coords": "",
     "ph_offset": [-3, -6, -7, -12, -19],
+    "ph_coords": {},
     "chance": "5%",
     "respawn": 3600
   },
-
   "Orcish Barricader": {
+    "nm_id": [17350801],
+    "coords": "",
+    "ph_offset": [],
+    "ph_coords": {},
     "chance": "",
     "respawn": [4200, 5700]
   },
-
   "Stray Mary": {
-    "ph_ids": [17219791, 17219928],
+    "nm_id": [],
+    "coords": "",
+    "ph_offset": [],
+    "ph_coords": {
+      "17219791": "",
+      "17219928": ""
+    },
     "chance": "5%",
     "respawn": 300
   },
-
   "Lumbering Lambert": {
     "nm_id": [17195317],
-    "ph_ids": [17195143, 17195316],
+    "coords": "",
+    "ph_offset": [],
+    "ph_coords": {
+      "17195143": "",
+      "17195316": ""
+    },
     "chance": "10%",
     "respawn": 1200
   },
-
   "Bloodtear Baldurf": {
     "nm_id": [17195318],
-    "ph_ids": [17195143, 17195316],
+    "coords": "",
+    "ph_offset": [],
+    "ph_coords": {
+      "17195143": "",
+      "17195316": ""
+    },
     "chance": "10%",
     "respawn": 1200
+  },
+  "Deadly Dodo": {
+    "nm_id": [17268851],
+    "coords": "",
+    "ph_offset": [-2, -1],
+    "ph_coords": {},
+    "chance": "33%",
+    "respawn": 3600
+  },
+  "Nue": {
+    "nm_id": [17231971],
+    "coords": "",
+    "ph_offset": [-2, -1],
+    "ph_coords": {},
+    "chance": "7%",
+    "respawn": [3600, 7200]
+  },
+  "Kirata": {
+    "nm_id": [17232044],
+    "coords": "",
+    "ph_offset": [-2, -1],
+    "ph_coords": {},
+    "chance": "7%",
+    "respawn": [3600, 28800]
+  },
+  "Morbolger": {
+    "nm_id": [17568127],
+    "coords": "",
+    "ph_offset": [],
+    "ph_coords": {},
+    "chance": "",
+    "respawn": [75600, 86400]
   }
 }
