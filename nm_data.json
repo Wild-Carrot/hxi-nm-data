@@ -82,5 +82,12 @@
     "ph_ids": [17215867, 17215887],
     "chance": "9",
     "respawn": 1
+  },
+
+  "Valkurm Emperor": {
+    "nm_id": [17199438],
+    "ph_offset": [-4],
+    "chance": "10",
+    "respawn": 3600
   }
 }
