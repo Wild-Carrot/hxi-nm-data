@@ -1,7 +1,6 @@
 {
   "Cargo Crab Colin": {
     "nm_id": [17485980],
-    "coords": "-0.5 -33",
     "ph_offset": [22, 24],
     "ph_coords": {
       "17486002": "-30.384 1.000 -33.277",
@@ -10,9 +9,9 @@
     "chance": "5%",
     "respawn": 5400
   },
+
   "Jaggedy-Eared Jack": {
     "nm_id": [17187111],
-    "coords": "",
     "ph_offset": [-1],
     "ph_coords": {
       "17187110": "-262.780 -22.384 -253.873"
@@ -20,85 +19,68 @@
     "chance": "9%",
     "respawn": 2400
   },
+
   "Ashmaker Gotblut": {
     "nm_id": [17358932],
-    "coords": "",
     "ph_offset": [-3, -6, -7, -12, -19],
-    "ph_coords": {},
     "chance": "5%",
     "respawn": 3600
   },
+
   "Orcish Barricader": {
     "nm_id": [17350801],
-    "coords": "",
-    "ph_offset": [],
-    "ph_coords": {},
-    "chance": "",
     "respawn": [4200, 5700]
   },
+
   "Stray Mary": {
-    "nm_id": [],
-    "coords": "",
-    "ph_offset": [],
-    "ph_coords": {
-      "17219791": "",
-      "17219928": ""
-    },
+    "ph_ids": [17219791, 17219928],
     "chance": "5%",
     "respawn": 300
   },
+
   "Lumbering Lambert": {
     "nm_id": [17195317],
-    "coords": "",
-    "ph_offset": [],
-    "ph_coords": {
-      "17195143": "",
-      "17195316": ""
-    },
+    "ph_ids": [17195143, 17195316],
     "chance": "10%",
     "respawn": 1200
   },
+
   "Bloodtear Baldurf": {
     "nm_id": [17195318],
-    "coords": "",
-    "ph_offset": [],
-    "ph_coords": {
-      "17195143": "",
-      "17195316": ""
-    },
+    "ph_ids": [17195143, 17195316],
     "chance": "10%",
     "respawn": 1200
   },
+
   "Deadly Dodo": {
     "nm_id": [17268851],
-    "coords": "",
     "ph_offset": [-2, -1],
-    "ph_coords": {},
-    "chance": "33%",
+    "chance": "33",
     "respawn": 3600
   },
+
   "Nue": {
     "nm_id": [17231971],
-    "coords": "",
     "ph_offset": [-2, -1],
-    "ph_coords": {},
-    "chance": "7%",
+    "chance": "7",
     "respawn": [3600, 7200]
   },
+
   "Kirata": {
     "nm_id": [17232044],
-    "coords": "",
     "ph_offset": [-2, -1],
-    "ph_coords": {},
-    "chance": "7%",
+    "chance": "7",
     "respawn": [3600, 28800]
   },
+
   "Morbolger": {
     "nm_id": [17568127],
-    "coords": "",
-    "ph_offset": [],
-    "ph_coords": {},
-    "chance": "",
     "respawn": [75600, 86400]
+  },
+
+  "Leaping Lizzy": {
+    "ph_ids": [17215867, 17215887],
+    "chance": "9",
+    "respawn": 1
   }
 }
