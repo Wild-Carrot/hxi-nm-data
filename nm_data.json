@@ -75,7 +75,7 @@
 
   "Morbolger": {
     "nm_id": [17568127],
-    "respawn": [75600, 86400]
+    "respawn": [79200, 82800]
   },
 
   "Leaping Lizzy": {
@@ -91,3 +91,4 @@
     "respawn": 3600
   }
 }
+
